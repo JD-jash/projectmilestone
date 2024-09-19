@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, HAPPY Learning </h1>
+   <h1> no happy only tears coming </h1>
    <h1> See You Again </h1>
 <h3> this is project </h3>
 <h1><b>ltimindtree</b></h1>
